@@ -1,5 +1,5 @@
 
-package com.example.mobileappsassignment.screens
+package com.example.mobileappassignment2.screens
 
 import androidx.compose.foundation.layout.*
 import androidx.compose.material3.*
